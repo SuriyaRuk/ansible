@@ -1,0 +1,5 @@
+[a]
+a ansible_ssh_host=10.247.38.240 ansible_user=xxx ansible_password=xxx
+
+[b]
+b ansible_ssh_host=10.247.40.240 ansible_user=xxx ansible_password=xxx
