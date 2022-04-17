@@ -8,4 +8,4 @@ services:
     volumes:
       - ./inventory:/runner/inventory
       - ./playbook:/runner/playbook
-
+      - ./ansible.cfg:/runner/ansible.cfg
