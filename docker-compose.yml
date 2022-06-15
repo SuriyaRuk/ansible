@@ -2,7 +2,7 @@ version: '3.9'
 services:
 
   ansible:
-    image: ansible/ansible-runner
+    image: quay.io/ansible/ansible-runner
     container_name: ansible
     network_mode: host
     volumes:
